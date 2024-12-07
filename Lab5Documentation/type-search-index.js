@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI.Karapinka.Lab5","l":"CalcException"},{"p":"KI.Karapinka.Lab5","l":"Driver"},{"p":"KI.Karapinka.Lab5","l":"Function"},{"p":"KI.Karapinka.Lab5","l":"FunctionIO"}];updateSearchResults();
