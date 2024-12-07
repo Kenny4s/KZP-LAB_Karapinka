@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Group.Surname.Lab2","l":"PhotoCamera"},{"p":"Group.Surname.Lab2","l":"PhotoCameraDriver"}];updateSearchResults();
